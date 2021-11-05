@@ -10,6 +10,10 @@
 <body>
 <form action="login">
 	用户：<input id="username" name="username" type="text"></input><br>
+	用户：<input id="username" name="username" type="text"></input><br>
+	用户：<input id="username" name="username" type="text"></input><br>
+	密码：<input id="username" name="password" type="password"></input><br>
+	密码：<input id="username" name="password" type="password"></input><br>
 	密码：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
